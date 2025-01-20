@@ -30,6 +30,10 @@
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
+  if //stuff 
+    // do stuff
+  //else
+    //do more stuff
 }
 
 // the loop function runs over and over again forever
