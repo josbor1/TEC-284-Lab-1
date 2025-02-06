@@ -2,4 +2,3 @@
 This code will make the built-in LED on the Arduino blink.
 
 Do not copy this repo! Please follow the lab guide to create your own version.
-https://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/
